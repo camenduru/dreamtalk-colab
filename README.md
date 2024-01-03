@@ -17,4 +17,7 @@ https://arxiv.org/abs/2312.09767
 ### 🌐 Page
 https://dreamtalk-project.github.io/
 
+### 📦 Model
+https://modelscope.cn/models/damo/dreamtalk
+
 ### 🖼 Output
