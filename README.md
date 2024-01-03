@@ -18,7 +18,3 @@ https://arxiv.org/abs/2312.09767
 https://dreamtalk-project.github.io/
 
 ### 🖼 Output
-
-
-### 🏢 Sponsor
-https://modelslab.com
