@@ -8,6 +8,9 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/dreamtalk-colab/blob/main/dreamtalk_colab.ipynb) | dreamtalk_colab
 
+### 📋 Tutorial
+![Screenshot 2024-01-03 150947](https://github.com/camenduru/dreamtalk-colab/assets/54370274/2974ff33-af0f-4867-8d3f-1a61b9c47b74)
+
 ### 🧬 Code
 https://github.com/ali-vilab/dreamtalk
 
