@@ -26,4 +26,6 @@ https://modelscope.cn/models/damo/dreamtalk
 
 ### 🖼 Output
 
+https://github.com/camenduru/dreamtalk-colab/assets/54370274/2a7be588-08c4-44c2-9fab-8efd60bb076d
+
 https://github.com/camenduru/dreamtalk-colab/assets/54370274/038a8f9e-dbb1-4c87-abde-ea296f1a2864
